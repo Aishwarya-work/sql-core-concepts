@@ -23,3 +23,8 @@ Designed to simulate real-world enterprise databases.
 MySQL
 
 MySQL Workbench
+
+# Author
+Aishwarya M
+
+SQL Learner | Data Enthusiast
