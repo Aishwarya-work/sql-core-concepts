@@ -28,3 +28,9 @@ MySQL Workbench
 Aishwarya M
 
 SQL Learner | Data Enthusiast
+
+## Learning Outcome
+- Strong understanding of SQL fundamentals
+- Hands-on experience with real-world employee datasets
+- Prepared for SQL interview questions (joins, aggregation, filtering)
+
