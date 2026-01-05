@@ -1,36 +1,64 @@
 # sql-core-concepts
 
-This repository contains my SQL learning journey, focused on building a strong foundation for interviews and real-world projects.
-The content is structured based on core SQL concepts, with hands-on practice using realistic datasets.
+This repository documents my SQL learning journey, focused on building a strong foundation and advanced query skills for interviews and real-world data analysis scenarios.
 
+The content is structured step-by-step, covering core to advanced SQL concepts with hands-on practice using realistic datasets.
 
-# Dataset Used
+---
 
-This repository uses a custom employee management dataset with:
+## Dataset Used
 
-Employee
+This repository uses multiple realistic datasets to practice SQL concepts:
 
-Departments
+### Employee Management Dataset
+- Employees
+- Departments
+- Projects
+- Employee–Project Mapping
 
-Projects
+### Restaurant Orders Dataset
+- Orders
+- Customers
+- Items
+- Sales-related attributes
 
-Employee–Project mapping
+These datasets are designed to simulate real-world business and enterprise scenarios.
 
-Designed to simulate real-world enterprise databases.
+---
 
-# Tools Used
+## Topics Covered
 
-MySQL
+- SQL Basics & Commands (DDL, DML, DQL)
+- Filtering & Sorting (WHERE, ORDER BY, DISTINCT, LIMIT)
+- Aggregate Functions
+- GROUP BY & HAVING
+- Joins (Inner, Left, Self)
+- Subqueries
+  - Single-row subqueries
+  - Multi-row subqueries
+  - Correlated subqueries
+- Common Table Expressions (CTE)
+- Window Functions 
 
-MySQL Workbench
+---
 
-# Author
-Aishwarya M
+## Tools Used
 
-SQL Learner | Data Enthusiast
+- MySQL
+- MySQL Workbench
+
+---
 
 ## Learning Outcome
-- Strong understanding of SQL fundamentals
-- Hands-on experience with real-world employee datasets
-- Prepared for SQL interview questions (joins, aggregation, filtering)
 
+- Strong understanding of SQL fundamentals and advanced concepts
+- Ability to write queries
+- Hands-on experience with real-world business datasets
+  
+
+---
+
+## Author
+
+**Aishwarya M**  
+SQL Learner | Data Enthusiast
